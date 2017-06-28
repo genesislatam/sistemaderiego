@@ -1,0 +1,88 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sistemaderiego.epizy.com" resolutions="1x" timestamp="1498623434559">
+  <folder name="css">
+    <file name="site_global.css" crc="121892144"/>
+    <file name="index.css" crc="466118185" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u1066.php" crc="4146433377" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="295453568" ref="index"/>
+    <file name="xd.jpg" crc="3933510201" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u295-4.png" crc="162798431" ref="index"/>
+    <file name="imagen central.jpg" crc="312445394" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u172-7.png" crc="332702396" ref="index"/>
+    <file name="indicador.svg" crc="4104620961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indicador_poster_.png" crc="234583797" ref="index"/>
+    <file name="imagen central-u1149-fr.jpg" crc="4012516463" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u316-4.png" crc="3760140934" ref="index"/>
+    <file name="precauciones.jpg" crc="3945242703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u495-4.png" crc="3895093431" ref="index"/>
+    <file name="u501-6.png" crc="277641742" ref="index"/>
+    <file name="u506-6.png" crc="3917392672" ref="index"/>
+    <file name="u515-6.png" crc="4121518419" ref="index"/>
+    <file name="proce.jpg" crc="3919521171" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u539-4.png" crc="4238383971" ref="index"/>
+    <file name="u1024-4.png" crc="3759884697" ref="index"/>
+    <file name="porta-pilas-2-baterias-aa-crop-u1362.jpg" crc="214997610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s_1147-mlc4379972107_052013-o-crop-u1372.jpg" crc="4251700908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sensor_suelo_2-crop-u1382.jpg" crc="4235263106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wb104-crop-u1392.jpg" crc="3802799465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1030-4.png" crc="357778560" ref="index"/>
+    <file name="riego-con-arduino_bb.jpg" crc="4067792729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1036-4.png" crc="437910385" ref="index"/>
+    <file name="imagen pegada 299x270.jpg" crc="178645656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 374x291.jpg" crc="3827457164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1452-4.png" crc="437910385" ref="index"/>
+    <file name="sistema-riego-estudiantes-udo-3.jpg" crc="4264150071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1057-4.png" crc="5730386" ref="index"/>
+    <file name="u1067.png" crc="21069005" ref="index"/>
+    <file name="u1067-r.png" crc="4256522788" ref="index"/>
+    <file name="u1067-m.png" crc="8312627" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4013892759" seo="true" mt="1498623197433" redirect="true"/>
+</manifest>

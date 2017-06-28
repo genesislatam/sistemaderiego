@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sistemaderiego.epizy.com/index.html</loc>
+    <lastmod>2017-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/indicador.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/porta-pilas-2-baterias-aa-crop-u1362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/s_1147-mlc4379972107_052013-o-crop-u1372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/sensor_suelo_2-crop-u1382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/wb104-crop-u1392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/riego-con-arduino_bb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/imagen%20pegada%20299x270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/imagen%20pegada%20374x291.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistemaderiego.epizy.com/images/sistema-riego-estudiantes-udo-3.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
